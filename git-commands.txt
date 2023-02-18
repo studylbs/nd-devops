@@ -1,0 +1,20 @@
+11503  git --version
+11511  git clone https://github.com/studylbs/nd-devops.git
+11520  git clone https://github.com/studylbs/nd-devops.git
+11528  git branch
+11539  cp -r ../node-hello/* .
+11542  git status
+11545  git pull
+11555  git checkout -b devops
+11556  git branch
+11562  git checkout main
+11563  git checkout devops
+11570  git add .
+11572  git commit -m "initial project setup"
+11585  git push
+11586  git push --set-upstream origin devops
+11591  git checkout -b develop
+11594  git push --set-upstream origin develop
+11595  git checkout -b muzammil
+11600  git add index.js
+11605  git push --set-upstream origin muzammil
